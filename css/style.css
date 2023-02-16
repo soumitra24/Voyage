@@ -2,7 +2,7 @@ body {
     background-color: rgb(3, 6, 42);
     overflow-x: hidden;
     width: 99vw;
-    background-image: url(/alexander-andrews-fsH1KjbdjE8-unsplash\ \(1\).jpg) ;
+    background-image: url('../bg.jpg') ;
     background-size: contain;
     background-repeat: repeat-x;
     background-attachment: fixed; 
