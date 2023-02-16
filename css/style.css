@@ -266,8 +266,7 @@ header img {
 .elements:hover {
     cursor: pointer;
     transform: scale(1.03);
-    
-    transition-duration: 1s;
+    transition-duration: 500ms;
 }
 
 .ugh {
